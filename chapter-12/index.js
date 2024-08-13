@@ -1,0 +1,8 @@
+/////////////////
+////////////
+
+/// I don'n know , why I scipped this chapter...
+
+console.log("Skipped this Chapter");
+///////////
+////////////////////////////////
